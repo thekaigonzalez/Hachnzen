@@ -23,6 +23,7 @@ of the words `ietz (item)` and `hattz (house)`, which would make `Item House`, t
 In german, this is similar to the words such as *Antibabypillen*, in the terms that words are combined to form a single word;
 that is a description of multiple things, *a combination*.
 
+In hach, a way to say the full language's name "Hachnzen", is by using the "hac" abbreviation. It will always be interpreted as the full name.
 
 ## Basic Conversation Example
 
@@ -73,3 +74,5 @@ For most of the words in Hach, they sometimes sound the same as their english co
 Click [here](./Basic-Greeting.md) to read about different greetings. 
 
 Click [here](./Similar-Words.md) to view similar words to German & English.
+
+Click [here](../Chap-2/) for chapter 2.
