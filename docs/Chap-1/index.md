@@ -71,3 +71,5 @@ For most of the words in Hach, they sometimes sound the same as their english co
 > *And yes, Hach uses an english-style punctuation, you don't need to use any fancy symbols.*
 
 Click [here](./Basic-Greeting.md) to read about different greetings. 
+
+Click [here](./Similar-Words.md) to view similar words to German & English.
