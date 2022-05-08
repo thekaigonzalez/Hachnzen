@@ -9,6 +9,10 @@ Sometimes, the translators will struggle, so you'd need to know how to interpret
 > *future revisions made the "you" word easier to deal with.*
 > *For historical purposes, `oi` will remain in Hach.*
 
+> *And, if you want to take your skill to the next level, overview the "Advanced Prefixes and Suffixes" page,*
+> *It will help you become a pro and analyzing words with prefixes, and suffixes.*
+> *[here](../Adv/Fixes/index.md)*
+
 ## SWTSTST
 
 SWTSTST - Same Way To Say The Same Thing
