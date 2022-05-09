@@ -98,6 +98,14 @@
 
 
 
+## catauyl (actual)
+
+
+
+## catauylen (actually)
+
+
+
 ## hes (him)
 
 
@@ -174,7 +182,15 @@
 
 
 
+## daceane (discarded)
+
+
+
 ## markplatz (marketplace)
+
+
+
+## ijellzt (smart)
 
 
 
@@ -186,11 +202,59 @@
 
 
 
+## allo (allowed)
+
+
+
+## alle (allow)
+
+
+
+## baz (be)
+
+
+
+## suem (some)
+
+
+
+## wurden (words)
+
+
+
+## wurd (word)
+
+
+
+## futdig (soon)
+
+
+
+## junez (complex)
+
+
+
+## sentancen (sentences)
+
+
+
 ## warsen (was)
 
 
 
+## spatkench (language)
+
+
+
+## veneg (very)
+
+
+
 ## nena (no)
+
+
+
+## nament (called)
 
 
 
@@ -203,6 +267,34 @@
 
 
 ## prpartin (ready)
+
+
+
+## oede (old)
+
+
+
+## oeuf (one)
+
+
+
+## fuzr (for)
+
+
+
+## deu (two)
+
+
+
+## motivvit (inspired)
+
+
+
+## mitive (inspire)
+
+
+
+## zere (three)
 
 
 
