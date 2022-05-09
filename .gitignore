@@ -7,3 +7,4 @@ dist
 build
 translator.py
 makefile
+__pycache__
