@@ -34,6 +34,18 @@
 
 
 
+## der (the)
+
+
+
+## injezt (injure)
+
+
+
+## exeite (leave)
+
+
+
 ## gue (go)
 
 
@@ -210,6 +222,30 @@
 
 
 
+## motzts (most)
+
+
+
+## soude (should)
+
+
+
+## coenet (count)
+
+
+
+## coeneten (counted)
+
+
+
+## unilc (unlucky)
+
+
+
+## vuncace (lucky)
+
+
+
 ## eu (you)
 
 
@@ -254,6 +290,10 @@
 
 
 
+## dienkejn (think)
+
+
+
 ## ime (am)
 
 
@@ -263,6 +303,22 @@
 
 
 ## femila (family)
+
+
+
+## wyat (went)
+
+
+
+## dotze (through)
+
+
+
+## efen (if)
+
+
+
+## dieces (didn't)
 
 
 
@@ -282,6 +338,26 @@
 
 
 
+## rayeut (right)
+
+
+
+## leufz (left)
+
+
+
+## hera (he)
+
+
+
+## misen (missed)
+
+
+
+## misst (miss)
+
+
+
 ## ovale (true)
 
 
@@ -291,6 +367,10 @@
 
 
 ## cuel (cool)
+
+
+
+## neinetdig (time)
 
 
 
