@@ -1,5 +1,7 @@
 ## hezcr (hello)
 
+
+
 ## daes (this)
 
 
@@ -292,7 +294,7 @@
 
 
 
-## nightdig (nighttime)
+## nightdig (night)
 
 
 
