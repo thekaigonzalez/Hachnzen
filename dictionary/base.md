@@ -154,11 +154,23 @@
 
 
 
+## lacepo (loop)
+
+
+
 ## ytedig (yesterday)
 
 
 
 ## bafig (before)
+
+
+
+## apepaunece (playlist)
+
+
+
+## unece (list)
 
 
 
@@ -170,7 +182,31 @@
 
 
 
+## bases (base)
+
+
+
+## tranlle (translation)
+
+
+
+## encelg (english)
+
+
+
+## pacyect (transportation)
+
+
+
+## bacenpacyet (bike)
+
+
+
 ## acet (watch)
+
+
+
+## sexaepec (sexual)
 
 
 
@@ -182,11 +218,43 @@
 
 
 
+## maele (male)
+
+
+
+## poasemele (female)
+
+
+
 ## daceane (discarded)
 
 
 
+## day (they)
+
+
+
+## boten (both)
+
+
+
+## boce (boy)
+
+
+
+## giele (girl)
+
+
+
+## meanes (mean)
+
+
+
 ## markplatz (marketplace)
+
+
+
+## une (on)
 
 
 
@@ -203,6 +271,14 @@
 
 
 ## allo (allowed)
+
+
+
+## apepa (play)
+
+
+
+## sacpye (stop)
 
 
 

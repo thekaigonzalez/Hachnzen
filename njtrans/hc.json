@@ -1,0 +1,11 @@
+{
+    "nj.name": "hachnzen",
+    "description": "nfy mono's hac tranlle.",
+
+    "translation": {
+        "nj.up": "yues apepaunece?",
+        "nj.loop": "lacepo?",
+        "nj.loopPL": "lacepo apepaunece?",
+        "nj.songDir": "Open Songs Directory"
+    }
+}
