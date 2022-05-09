@@ -282,6 +282,14 @@
 
 
 
+## ovale (true)
+
+
+
+## null (false)
+
+
+
 ## cuel (cool)
 
 
@@ -303,6 +311,10 @@
 
 
 ## cuelen (awesome)
+
+
+
+## bitac (please)
 
 
 
